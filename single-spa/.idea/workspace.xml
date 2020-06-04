@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9893bd17-00ea-494f-8c1e-af4f1fbd93ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cVJv3dGcmX7PFLswvNj4X52iPY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.13.1/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9893bd17-00ea-494f-8c1e-af4f1fbd93ac" name="Default Changelist" comment="" />
+      <created>1590608054487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590608054487</updated>
+      <workItem from="1590608055880" duration="2763000" />
+      <workItem from="1590613942242" duration="495000" />
+      <workItem from="1590614477225" duration="1806000" />
+      <workItem from="1590648834004" duration="13000" />
+      <workItem from="1591023771831" duration="685000" />
+      <workItem from="1591039172259" duration="2339000" />
+      <workItem from="1591169406493" duration="1032000" />
+      <workItem from="1591254190168" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="405" key="#ESLint" timestamp="1590611296926">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="683" y="405" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1590611296926" />
+    <state x="239" y="76" key="SettingsEditor" timestamp="1590611317729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="239" y="76" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590611317729" />
+    <state x="470" y="238" width="740" height="574" key="find.popup" timestamp="1591039257657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="470" y="238" width="740" height="574" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591039257657" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1591040997718">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591040997718" />
+  </component>
+</project>
